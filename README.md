@@ -17,7 +17,8 @@ You must have installed on your machine
 3. Git 2 or later
 
 #### Clone and Install
-```git clone https://github.com/hppy97/Web-Chat-Application.git
+```
+git clone https://github.com/hppy97/Web-Chat-Application.git
 
 cd Web-Chat-Application
 
@@ -25,5 +26,6 @@ mvn clean install
 ```
 
 ##### Run
-```mvn spring-boot:run
+```
+mvn spring-boot:run
 ```
